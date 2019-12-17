@@ -1,14 +1,14 @@
 # System-ID-and-Speed-Control-of-DC-Servo-Motor
-Controls Side Project
-
-**To design a state-feedback control system that can control the H-AUV (Autonomous Underwater Vehicle) depth and longitudinal position** 
+**To design a feedback compensator meeting performance specifications for DC Servo Motor model and thus evaluating stability margins** 
 
 #### Objectives Achieved: 
 
-- Modeled MIMO dynamic systems using state-space techniques.
-- Analytically and numerically solved for the dynamic response of any linear dynamic system and relate the response to the state-space system description.
-- Analyzed the open-loop and closed-loop stability of any state-space representation.
-- Designed linear state-feedback controllers using pole placement techniques.
+- Constructed a Matlab LTI object using an analytic motor model and parameter values from manufacturers data sheets
+- Estimated the open-loop frequency response from experimental time-domain data
+- Validated the Matlab model by comparing the time domain and frequency domain responses 
+- Designed a feedback compensator to meet time domain and frequency domain performance specifications
+- Implement the compensator design as an LTI object
+- Evaluate stability margins and performance metrics for your design 
 
 ![](AUVANIMATE.JPG)
 
