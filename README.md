@@ -21,5 +21,4 @@
 - **SystemID_SpeedControl_DC_JapnitSethi.pdf** - Published Document for a quick check of Solutions and Code
 - **exp_idtest.mat** - Consists of System ID Experimental Data collected for 60 sec @ 1000 Hz
 - **eval_controller.p** - Matlab Program to do automatic analysis of our controller design
-- **Midterm_Project_Data** - Track of Iterations for Pole Placements method
 
