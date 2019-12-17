@@ -19,6 +19,7 @@
 #### Use of each file:
 - **SystemID_SpeedControl_DC_JapnitSethi.mlx** - Executable file with clearly defined problem statement and approach
 - **SystemID_SpeedControl_DC_JapnitSethi.pdf** - Published Document for a quick check of Solutions and Code
-- **animate_auv.p** - Animation code used throughout the code for easy visual and intuitive check
+- **exp_idtest.mat** - Consists of System ID Experimental Data collected for 60 sec @ 1000 Hz
+- **eval_controller.p** - Matlab Program to do automatic analysis of our controller design
 - **Midterm_Project_Data** - Track of Iterations for Pole Placements method
 
