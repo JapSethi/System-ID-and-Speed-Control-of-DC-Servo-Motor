@@ -7,8 +7,8 @@
 - Estimated the open-loop frequency response from experimental time-domain data
 - Validated the Matlab model by comparing the time domain and frequency domain responses 
 - Designed a feedback compensator to meet time domain and frequency domain performance specifications
-- Implement the compensator design as an LTI object
-- Evaluate stability margins and performance metrics for your design 
+- Implemented the compensator design as an LTI object
+- Evaluated stability margins and performance metrics for your design 
 
 ![](OverallCompensatorComparison.jpg)
 
