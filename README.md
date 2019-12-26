@@ -10,7 +10,6 @@
 - Implemented the compensator design as an LTI object
 - Evaluated stability margins and performance metrics for your design 
 
-![](OverallCompensatorComparison.jpg)
 ![](OverallCompensatorComparison.gif)
 
 #### Languages Used:
