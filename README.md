@@ -10,7 +10,7 @@
 - Implemented the compensator design as an LTI object
 - Evaluated stability margins and performance metrics for your design 
 
-![](OverallCompensatorComparison.gif)
+<p align="center"> <![](OverallCompensatorComparison.gif)></p>
 
 #### Languages Used:
 - Matlab
