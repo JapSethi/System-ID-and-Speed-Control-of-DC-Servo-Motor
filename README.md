@@ -17,8 +17,8 @@
 - Latex 
 
 #### Use of each file:
-- **SystemID_SpeedControl_DC_JapnitSethi.mlx** - Executable file with clearly defined problem statement and approach
-- **SystemID_SpeedControl_DC_JapnitSethi.pdf** - Published Document for a quick check of Solutions and Code
-- **exp_idtest.mat** - Consists of System ID Experimental Data collected for 60 sec @ 1000 Hz
-- **eval_controller.p** - Matlab Program to do automatic analysis of our controller design
+- [**SystemID_SpeedControl_DC_JapnitSethi.mlx**](SystemID_SpeedControl_DC_JapnitSethi.mlx) - Executable file with clearly defined problem statement and approach
+- [**SystemID_SpeedControl_DC_JapnitSethi.pdf**](SystemID_SpeedControl_DC_JapnitSethi.pdf) - Published Document for a quick check of Solutions and Code
+- [**exp_idtest.mat**](exp_idtest.mat) - Consists of System ID Experimental Data collected for 60 sec @ 1000 Hz
+- [**eval_controller.p**](eval_controller.p) - Matlab Program to do automatic analysis of our controller design
 
